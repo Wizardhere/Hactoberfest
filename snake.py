@@ -3,7 +3,7 @@ import pygame
 import time
 import random
 
-print("Snake Game By You")
+print("Snake Game By Wizard")
 
 snake_speed = 15
 
