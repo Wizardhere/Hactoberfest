@@ -3,6 +3,8 @@ import pygame
 import time
 import random
 
+print("Snake Game By You")
+
 snake_speed = 15
 
 # Window size
